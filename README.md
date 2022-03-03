@@ -1,2 +1,2 @@
 # python-killer
-Kills all running python processes.
+Simply kills all running python processes.
